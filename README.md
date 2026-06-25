@@ -10,8 +10,8 @@ from PIL import Image
 import sys
 
 # コマンドライン引数から入力画像と出力画像のファイル名を取得
-input_image = sys.argb[1]
-output_image = sys.argb[2]
+input_image = sys.argv[1]
+output_image = sys.argv[2]
 
 # 画像の読み込み
 img = Image.open(input_image)
