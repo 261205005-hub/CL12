@@ -3,7 +3,6 @@
 引数で指定した画像の左右反転を作成する python3 で動作するプログラムです。
 
 ## 2. ソースコード
-＃このプログラムは python3用です。
 ```python3
 # このプログラムは python3用です。
 # あらかじめ pip install pillow で pillow で pillow をインストールしておきます。
